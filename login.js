@@ -1,5 +1,5 @@
 function login() {
-    alert("Funcionou!");
+    alert("bem vindo");
 
     const usuario = document.getElementById("usuario").value;
 
