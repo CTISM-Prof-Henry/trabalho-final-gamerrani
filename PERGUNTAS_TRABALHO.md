@@ -16,7 +16,7 @@ para serem respondidas de maneira oral.
 5. Qual a diferença entre `<div>` e containers semânticos? Cite um exemplo.
 6. div organizar a pagina em blocos
 7. Qual a diferença entre `<ul>` e `<ol>`?
-8. ol ordena lista numerada,ul lista bolinhas
+8. ol ordena lista numerada,ul lista bolinhas, nao numerada
 7. Qual a função da tag `<a>`? 
 8. tag link
 8. Para que serve o atributo `alt` na `<img>`?
